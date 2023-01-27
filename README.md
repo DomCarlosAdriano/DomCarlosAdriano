@@ -45,8 +45,13 @@
 <a href="https://www.linkedin.com/in/carlos-adriano-600bb2220" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LInkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+ 
 <a href="https://www.instagram.com/dom_carlos_adriano/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+ 
+ <a href="mailto:domcarlosadriano@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
 
 </p>
