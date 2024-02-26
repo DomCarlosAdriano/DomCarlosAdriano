@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DomCarlosAdriano/cb9c6183b577a216050fcaf646e31300/raw/57d655ed2835e0ce1fc3cf70e116a1e60603ff02/cartaodevisita.svg"/>
+<img align="right" height="590em" src="https://github.com/DomCarlosAdriano/DomCarlosAdriano/blob/main/.github/cartao-visita.png?raw=true"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dom Carlos Adriano</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DomCarlosAdriano&color=yellow" alt="Profile views" /> </p>
